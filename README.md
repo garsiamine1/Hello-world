@@ -1,2 +1,5 @@
 # Hello-world
-Just another repository
+
+Hi Humans !
+I'm a Computer Engineer & Senior Biomedical Technician.
+
